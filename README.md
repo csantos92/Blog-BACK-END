@@ -1,6 +1,6 @@
 # Blog-BACK-END
 
-Blog back-end made with PHP Laravel
+PHP Laravel back-end
 
 ## Front-end
 
